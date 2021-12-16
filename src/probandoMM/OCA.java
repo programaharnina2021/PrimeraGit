@@ -10,6 +10,12 @@ public static void main(String[] args) {
 	}
 }
 /**
+ * cambia la naturaleza de la casilla 19( y solo esa)
+ * que pasa a ser posada
+ * @param tablero
+ */
+public static void colocarPosada(Casilla[] tablero) {}
+/**
  * Cambia la naturaleza de la casilla 31 (solo la 31)
  *  que pasa de blanco a pozo
  * @param tablero
