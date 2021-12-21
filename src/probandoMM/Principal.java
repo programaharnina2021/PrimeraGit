@@ -3,8 +3,7 @@ package probandoMM;
 public class Principal {
 
 	public static void main(String[] args) {
-		Color miColor;
-		miColor=Color.azul;
+		Color miColor = Color.azul;
 		Color otro=Color.Verde;
 		System.out.println(miColor.equals(otro));
 		miColor=Color.Verde;
